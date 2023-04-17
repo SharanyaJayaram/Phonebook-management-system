@@ -32,7 +32,6 @@ int main ()
     cout<<"\t\t| |      | | | | <_> | | | |  ___/ |__/ /| <_>  <_> |   <"<<endl;
     cout<<"\t\t|_|      |_| |_|\\___/|_| |_|\\____|_____/  \\___/\\___/|_|\\_\\ "<<endl;
     cout<<endl;
-    cout<<"\n\t\t\tWelcome to our project.\n"<<endl;
     system("pause");
 
     phonebook_Contacts phonebook[100];
